@@ -21,12 +21,18 @@
     <ClInclude Include="Cincle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SquareCincle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Square.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Cincle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SquareCincle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
