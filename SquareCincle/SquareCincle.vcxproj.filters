@@ -18,9 +18,15 @@
     <ClInclude Include="Square.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Cincle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cincle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

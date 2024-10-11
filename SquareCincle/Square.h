@@ -3,6 +3,6 @@ class Square
 {
 	double a;
 public:
-	Square(int side) : a(side){}
+	Square(int side);
 };
 
